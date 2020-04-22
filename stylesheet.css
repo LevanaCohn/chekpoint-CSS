@@ -1,0 +1,51 @@
+
+nav.menu li{
+  display: inline-block;
+  list-style-type: none;
+  text-align: center;
+  padding: 30px; 
+  width: 90px;
+   height: 50px;
+  line-height: 30px;
+  margin-right: 50px;
+  
+}
+
+nav ul{
+  content: "";
+  clear: both;
+  position: relative;
+}
+  
+nav.menu li.menu {
+  background-color: darkorange;
+}
+ nav li a{
+   text-decoration: none;
+   color: cornsilk;
+   font-size: 30px;
+   position: relative;
+   
+ }
+ nav li :hover{
+   background-color: darkblue;
+ }
+
+
+footer{
+  text-align: center;
+  background-color: crimson;
+  color: aliceblue;
+  padding: 30px;
+  padding-bottom: 50px;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+  
